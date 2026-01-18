@@ -9,8 +9,7 @@ This project implements a machine learning pipeline to forecast U.S. GDP growth 
 - [Project Overview](#project-overview)  
 - [Data](#data)  
 - [Model](#model)  
-- [Results](#results)  
-- [License](#license)  
+- [Results](#results)   
 
 ---
 
