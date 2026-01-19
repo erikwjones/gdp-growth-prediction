@@ -1,18 +1,10 @@
-# Python
+venv/
+
+data/
+
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 
-# Virtual environment
-venv/
-
-# Environment variables
-.env
-*.env
-
-# Jupyter
 .ipynb_checkpoints/
-
-# Data
-data/*.csv
